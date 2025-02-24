@@ -16,6 +16,5 @@ Features:
 Tech Stack:
 Language: Kotlin
 Framework: Jetpack Compose
-#Build System: Gradle
-#
-#Version Control: GitHub
+Build System: Gradle
+Version Control: GitHub
