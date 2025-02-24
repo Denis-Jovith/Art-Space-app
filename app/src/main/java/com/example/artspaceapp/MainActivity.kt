@@ -45,26 +45,26 @@ fun ArtSpaceAppScreen() {
     val artist = when (result) {
         1 -> {
             ArtSpaceImageText(
-                image = R.drawable.budva,
-                title = R.string.budva,
-                artist = R.string.budva_artist,
-                year = R.string.budva_year
+                image = R.drawable.kilimanjaro,
+                title = R.string.kilimanjaro,
+                artist = R.string.kilimanjaro_artist,
+                year = R.string.kilimanjaro_year
             )
         }
         2 -> {
             ArtSpaceImageText(
-                image = R.drawable.cracovia,
-                title = R.string.cracovia,
-                artist = R.string.cracovia_artist,
-                year = R.string.cracovia_year
+                image = R.drawable.mwanza,
+                title = R.string.mwanza,
+                artist = R.string.mwanza_artist,
+                year = R.string.mwanza_year
             )
         }
         3 -> {
             ArtSpaceImageText(
-                image = R.drawable.lubiana,
-                title = R.string.luibiana,
-                artist = R.string.luibiana_artist,
-                year = R.string.luibiana_year
+                image = R.drawable.dodoma,
+                title = R.string.dodoma,
+                artist = R.string.dodoma_artist,
+                year = R.string.dodoma_year
             )
         }
         else -> {
