@@ -12,9 +12,8 @@ Features:
 ✅ Easy navigation between different art pieces.
 
 ✅ Scalable and flexible architecture for future enhancements.
-#
-#Tech Stack:
-#
+
+Tech Stack:
 #Language: Kotlin
 #
 #Framework: Jetpack Compose
