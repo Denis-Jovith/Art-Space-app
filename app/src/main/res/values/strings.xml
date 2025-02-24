@@ -1,15 +1,18 @@
 <resources>
     <string name="app_name">Art Space App</string>
-    <string name="budva">Budva</string>
-    <string name="budva_artist">Mario Verdi</string>
-    <string name="budva_year">(2022)</string>
 
+    <!-- Kilimanjaro Artwork -->
+    <string name="kilimanjaro">Mount Kilimanjaro</string>
+    <string name="kilimanjaro_artist">John Mwakalinga</string>
+    <string name="kilimanjaro_year">(2023)</string>
 
-    <string name="cracovia">Cracovia</string>
-    <string name="cracovia_artist">Paolo Giallo</string>
-    <string name="cracovia_year">(2021)</string>
+    <!-- Mwanza Artwork -->
+    <string name="mwanza">Mwanza - Rock City</string>
+    <string name="mwanza_artist">Asha Ngoma</string>
+    <string name="mwanza_year">(2022)</string>
 
-    <string name="luibiana">Luibiana</string>
-    <string name="luibiana_artist">Alfredo Rossi</string>
-    <string name="luibiana_year">(2020)</string>
+    <!-- Dodoma Artwork -->
+    <string name="dodoma">Dodoma - Capital City</string>
+    <string name="dodoma_artist">Elijah Mussa</string>
+    <string name="dodoma_year">(2021)</string>
 </resources>
