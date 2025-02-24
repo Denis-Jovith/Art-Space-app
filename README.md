@@ -4,13 +4,21 @@
 #
 #
 #Features:
+#
 #✅ Display various artworks with descriptions and artist details.
+#
 #✅ Smooth UI design using Jetpack Compose.
+#
 #✅ Easy navigation between different art pieces.
+#
 #✅ Scalable and flexible architecture for future enhancements.
 #
 #Tech Stack:
+#
 #Language: Kotlin
+#
 #Framework: Jetpack Compose
+#
 #Build System: Gradle
+#
 #Version Control: GitHub
