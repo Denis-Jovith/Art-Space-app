@@ -5,13 +5,13 @@
 #
 #Features:
 
-#✅ Display various artworks with descriptions and artist details.
+✅ Display various artworks with descriptions and artist details.
 
-#✅ Smooth UI design using Jetpack Compose.
+✅ Smooth UI design using Jetpack Compose.
 
-#✅ Easy navigation between different art pieces.
+✅ Easy navigation between different art pieces.
 
-#✅ Scalable and flexible architecture for future enhancements.
+✅ Scalable and flexible architecture for future enhancements.
 #
 #Tech Stack:
 #
