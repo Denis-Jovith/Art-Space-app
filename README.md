@@ -14,8 +14,8 @@ Features:
 ✅ Scalable and flexible architecture for future enhancements.
 
 Tech Stack:
-#Language: Kotlin
-#
+Language: Kotlin
+
 #Framework: Jetpack Compose
 #
 #Build System: Gradle
